@@ -6,7 +6,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,12 +28,12 @@ Users should be able to:
 ### Screenshots
 
 ![](./images/screenshot.png)
-![](./images/screenshot-mobile.png.png)
+![](./images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-E6uwRMFOqB)
+- Live Site URL: [Live Site](https://frontend-mentor-huddle-challenge.netlify.app/)
 
 ## My process
 
