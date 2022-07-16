@@ -71,6 +71,7 @@ h2 {
 
 .btn-nav {
   background: var(--whitecolor);
+  color: var(--verydarkcyan);
 }
 
 .hero-section {
@@ -259,12 +260,12 @@ h2 {
 
 /* Mobile Styling */
 
-@media (max-width: 375px) {
+@media (max-width: 768px) {
   h2 {
     font-size: 22px;
   }
   .main-header {
-    background: var(--verypaleblue) url(images/bg-hero-desktop.svg) no-repeat
+    background: var(--verypaleblue) url(images/bg-hero-mobile.svg) no-repeat
       center center;
     background-size: cover;
     padding: 20px;
